@@ -1,17 +1,17 @@
-using System;
+// using System;
 
-namespace c_sharp
-{
-    public class Transaction
-    {
-        public decimal Amount { get ;}
-        public DateTime Date {get;}
-        public string Notes { get;}
-        public Transaction(decimal amount, DateTime date, string note)
-        {
-            this.Amount = amount;
-            this.Date = date;
-            this.Notes = note;
-        }
-    }
-}
+// namespace c_sharp
+// {
+//     public class Transaction
+//     {
+//         public decimal Amount { get ;}
+//         public DateTime Date {get;}
+//         public string Notes { get;}
+//         public Transaction(decimal amount, DateTime date, string note)
+//         {
+//             this.Amount = amount;
+//             this.Date = date;
+//             this.Notes = note;
+//         }
+//     }
+// }
