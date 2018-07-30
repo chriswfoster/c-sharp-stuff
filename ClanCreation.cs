@@ -4,6 +4,7 @@ namespace war
 {
     public class ClanCreation
     {
+        private List<ClanCreation> allClans = new List<ClanCreation>();
         private string Name {get; set;}
         private string Email {get; set;}
         private int Population {get;set;}
@@ -16,8 +17,12 @@ namespace war
             this.Email = email;
             this.Population = 0;
             UserID+=1;
+        }
+        public void WhatToDo(){
+            var newWhatToDo = new WhatToDo();
            
         }
+        
     }
 
 
