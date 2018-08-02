@@ -1,20 +1,15 @@
 using System;
 
-namespace war
+
+namespace learning 
 {
-    public class Program
+class Program 
+{
+    public static Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Type your name here:");
-            string userName = Console.ReadLine();
-            Console.WriteLine("Thank you {0}, now type your email:", userName);
-            string userEmail = Console.ReadLine();
-            var NewClan = new ClanCreation(userName, userEmail);
-            Console.Clear();
-            NewClan.WhatToDo();
-        }
+        string Name = null; // string is a class type, so it can be set as a nullable value type. String is a reference type.
+        // int i = null // int is a value type, so the default value is in the form of a zero (0)
+        int? i = null;
+        Console.WriteLine($"hi {i} {Name}");
     }
-}
-
-
+}}

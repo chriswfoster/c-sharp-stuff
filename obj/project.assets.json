@@ -681,23 +681,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/spinsci/.nuget/packages/": {},
+    "/Users/chriswf/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/spinsci/Documents/Developing/c-sharp/c-sharp.csproj",
+      "projectUniqueName": "/Users/chriswf/Documents/Developing/c-sharp/c-sharp.csproj",
       "projectName": "c-sharp",
-      "projectPath": "/Users/spinsci/Documents/Developing/c-sharp/c-sharp.csproj",
-      "packagesPath": "/Users/spinsci/.nuget/packages/",
-      "outputPath": "/Users/spinsci/Documents/Developing/c-sharp/obj/",
+      "projectPath": "/Users/chriswf/Documents/Developing/c-sharp/c-sharp.csproj",
+      "packagesPath": "/Users/chriswf/.nuget/packages/",
+      "outputPath": "/Users/chriswf/Documents/Developing/c-sharp/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/spinsci/.nuget/NuGet/NuGet.Config"
+        "/Users/chriswf/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"

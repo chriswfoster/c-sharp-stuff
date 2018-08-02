@@ -9,3 +9,9 @@
 /Users/spinsci/Documents/Developing/c-sharp/bin/Debug/netcoreapp2.1/c-sharp.pdb
 /Users/spinsci/Documents/Developing/c-sharp/obj/Debug/netcoreapp2.1/c-sharp.dll
 /Users/spinsci/Documents/Developing/c-sharp/obj/Debug/netcoreapp2.1/c-sharp.pdb
+/Users/chriswf/Documents/Developing/c-sharp/obj/Debug/netcoreapp2.1/c-sharp.csprojAssemblyReference.cache
+/Users/chriswf/Documents/Developing/c-sharp/obj/Debug/netcoreapp2.1/c-sharp.csproj.CoreCompileInputs.cache
+/Users/chriswf/Documents/Developing/c-sharp/obj/Debug/netcoreapp2.1/c-sharp.AssemblyInfoInputs.cache
+/Users/chriswf/Documents/Developing/c-sharp/obj/Debug/netcoreapp2.1/c-sharp.AssemblyInfo.cs
+/Users/chriswf/Documents/Developing/c-sharp/obj/Debug/netcoreapp2.1/c-sharp.dll
+/Users/chriswf/Documents/Developing/c-sharp/obj/Debug/netcoreapp2.1/c-sharp.pdb
